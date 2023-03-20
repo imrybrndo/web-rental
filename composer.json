@@ -1,0 +1,17 @@
+{
+    "name": "abay/rental",
+    "require": {
+        "joshcam/mysqli-database-class": "*",
+        "josantonius/session": "^1.1",
+        "verot/class.upload.php": "dev-master",
+        "dompdf/dompdf": "^0.6.2",
+        "mpdf/mpdf": "^5.7"
+    },
+    "license": "tidak ada",
+    "authors": [
+        {
+            "name": "abay",
+            "email": "abay@gmail.com"
+        }
+    ]
+}
